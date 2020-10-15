@@ -9,4 +9,4 @@ build with the follwing
 #Redux
 #Google Authentication
 
-for ###`[DEMO]`(https://whatsapp-clone-firebase-e6ab7.web.app)
+for ###`[DEMO](https://whatsapp-clone-firebase-e6ab7.web.app)`
